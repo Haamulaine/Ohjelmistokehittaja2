@@ -1,0 +1,14 @@
+C:\Users\Meitsi\source\repos\EkaProjektini\EkaProjektini\bin\Debug\net10.0\EkaProjektini.exe
+C:\Users\Meitsi\source\repos\EkaProjektini\EkaProjektini\bin\Debug\net10.0\EkaProjektini.deps.json
+C:\Users\Meitsi\source\repos\EkaProjektini\EkaProjektini\bin\Debug\net10.0\EkaProjektini.runtimeconfig.json
+C:\Users\Meitsi\source\repos\EkaProjektini\EkaProjektini\bin\Debug\net10.0\EkaProjektini.dll
+C:\Users\Meitsi\source\repos\EkaProjektini\EkaProjektini\bin\Debug\net10.0\EkaProjektini.pdb
+C:\Users\Meitsi\source\repos\EkaProjektini\EkaProjektini\obj\Debug\net10.0\EkaProjektini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meitsi\source\repos\EkaProjektini\EkaProjektini\obj\Debug\net10.0\EkaProjektini.AssemblyInfoInputs.cache
+C:\Users\Meitsi\source\repos\EkaProjektini\EkaProjektini\obj\Debug\net10.0\EkaProjektini.AssemblyInfo.cs
+C:\Users\Meitsi\source\repos\EkaProjektini\EkaProjektini\obj\Debug\net10.0\EkaProjektini.csproj.CoreCompileInputs.cache
+C:\Users\Meitsi\source\repos\EkaProjektini\EkaProjektini\obj\Debug\net10.0\EkaProjektini.dll
+C:\Users\Meitsi\source\repos\EkaProjektini\EkaProjektini\obj\Debug\net10.0\refint\EkaProjektini.dll
+C:\Users\Meitsi\source\repos\EkaProjektini\EkaProjektini\obj\Debug\net10.0\EkaProjektini.pdb
+C:\Users\Meitsi\source\repos\EkaProjektini\EkaProjektini\obj\Debug\net10.0\EkaProjektini.genruntimeconfig.cache
+C:\Users\Meitsi\source\repos\EkaProjektini\EkaProjektini\obj\Debug\net10.0\ref\EkaProjektini.dll

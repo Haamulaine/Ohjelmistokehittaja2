@@ -1,0 +1,14 @@
+C:\Users\Meitsi\source\repos\ikäharjoitus\ikäharjoitus\bin\Debug\net10.0\ikäharjoitus.exe
+C:\Users\Meitsi\source\repos\ikäharjoitus\ikäharjoitus\bin\Debug\net10.0\ikäharjoitus.deps.json
+C:\Users\Meitsi\source\repos\ikäharjoitus\ikäharjoitus\bin\Debug\net10.0\ikäharjoitus.runtimeconfig.json
+C:\Users\Meitsi\source\repos\ikäharjoitus\ikäharjoitus\bin\Debug\net10.0\ikäharjoitus.dll
+C:\Users\Meitsi\source\repos\ikäharjoitus\ikäharjoitus\bin\Debug\net10.0\ikäharjoitus.pdb
+C:\Users\Meitsi\source\repos\ikäharjoitus\ikäharjoitus\obj\Debug\net10.0\ikäharjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meitsi\source\repos\ikäharjoitus\ikäharjoitus\obj\Debug\net10.0\ikäharjoitus.AssemblyInfoInputs.cache
+C:\Users\Meitsi\source\repos\ikäharjoitus\ikäharjoitus\obj\Debug\net10.0\ikäharjoitus.AssemblyInfo.cs
+C:\Users\Meitsi\source\repos\ikäharjoitus\ikäharjoitus\obj\Debug\net10.0\ikäharjoitus.csproj.CoreCompileInputs.cache
+C:\Users\Meitsi\source\repos\ikäharjoitus\ikäharjoitus\obj\Debug\net10.0\ikäharjoitus.dll
+C:\Users\Meitsi\source\repos\ikäharjoitus\ikäharjoitus\obj\Debug\net10.0\refint\ikäharjoitus.dll
+C:\Users\Meitsi\source\repos\ikäharjoitus\ikäharjoitus\obj\Debug\net10.0\ikäharjoitus.pdb
+C:\Users\Meitsi\source\repos\ikäharjoitus\ikäharjoitus\obj\Debug\net10.0\ikäharjoitus.genruntimeconfig.cache
+C:\Users\Meitsi\source\repos\ikäharjoitus\ikäharjoitus\obj\Debug\net10.0\ref\ikäharjoitus.dll

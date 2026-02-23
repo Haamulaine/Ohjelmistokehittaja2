@@ -1,0 +1,14 @@
+C:\Users\Meitsi\source\repos\aikaPäivä\aikaPäivä\bin\Debug\net10.0\aikaPäivä.exe
+C:\Users\Meitsi\source\repos\aikaPäivä\aikaPäivä\bin\Debug\net10.0\aikaPäivä.deps.json
+C:\Users\Meitsi\source\repos\aikaPäivä\aikaPäivä\bin\Debug\net10.0\aikaPäivä.runtimeconfig.json
+C:\Users\Meitsi\source\repos\aikaPäivä\aikaPäivä\bin\Debug\net10.0\aikaPäivä.dll
+C:\Users\Meitsi\source\repos\aikaPäivä\aikaPäivä\bin\Debug\net10.0\aikaPäivä.pdb
+C:\Users\Meitsi\source\repos\aikaPäivä\aikaPäivä\obj\Debug\net10.0\aikaPäivä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meitsi\source\repos\aikaPäivä\aikaPäivä\obj\Debug\net10.0\aikaPäivä.AssemblyInfoInputs.cache
+C:\Users\Meitsi\source\repos\aikaPäivä\aikaPäivä\obj\Debug\net10.0\aikaPäivä.AssemblyInfo.cs
+C:\Users\Meitsi\source\repos\aikaPäivä\aikaPäivä\obj\Debug\net10.0\aikaPäivä.csproj.CoreCompileInputs.cache
+C:\Users\Meitsi\source\repos\aikaPäivä\aikaPäivä\obj\Debug\net10.0\aikaPäivä.dll
+C:\Users\Meitsi\source\repos\aikaPäivä\aikaPäivä\obj\Debug\net10.0\refint\aikaPäivä.dll
+C:\Users\Meitsi\source\repos\aikaPäivä\aikaPäivä\obj\Debug\net10.0\aikaPäivä.pdb
+C:\Users\Meitsi\source\repos\aikaPäivä\aikaPäivä\obj\Debug\net10.0\aikaPäivä.genruntimeconfig.cache
+C:\Users\Meitsi\source\repos\aikaPäivä\aikaPäivä\obj\Debug\net10.0\ref\aikaPäivä.dll

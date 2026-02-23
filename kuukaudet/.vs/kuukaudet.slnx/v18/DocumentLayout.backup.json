@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Meitsi\\source\\repos\\kuukaudet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{995BC9A4-173E-430B-997B-6EB01A698E13}|kuukaudet\\kuukaudet.csproj|c:\\users\\meitsi\\source\\repos\\kuukaudet\\kuukaudet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995BC9A4-173E-430B-997B-6EB01A698E13}|kuukaudet\\kuukaudet.csproj|solutionrelative:kuukaudet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meitsi\\source\\repos\\kuukaudet\\kuukaudet\\Program.cs",
+              "RelativeDocumentMoniker": "kuukaudet\\Program.cs",
+              "ToolTip": "C:\\Users\\Meitsi\\source\\repos\\kuukaudet\\kuukaudet\\Program.cs",
+              "RelativeToolTip": "kuukaudet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T10:14:37.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

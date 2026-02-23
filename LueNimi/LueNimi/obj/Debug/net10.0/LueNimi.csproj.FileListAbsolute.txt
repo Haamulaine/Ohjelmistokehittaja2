@@ -1,0 +1,14 @@
+C:\Users\Meitsi\source\repos\LueNimi\LueNimi\bin\Debug\net10.0\LueNimi.exe
+C:\Users\Meitsi\source\repos\LueNimi\LueNimi\bin\Debug\net10.0\LueNimi.deps.json
+C:\Users\Meitsi\source\repos\LueNimi\LueNimi\bin\Debug\net10.0\LueNimi.runtimeconfig.json
+C:\Users\Meitsi\source\repos\LueNimi\LueNimi\bin\Debug\net10.0\LueNimi.dll
+C:\Users\Meitsi\source\repos\LueNimi\LueNimi\bin\Debug\net10.0\LueNimi.pdb
+C:\Users\Meitsi\source\repos\LueNimi\LueNimi\obj\Debug\net10.0\LueNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meitsi\source\repos\LueNimi\LueNimi\obj\Debug\net10.0\LueNimi.AssemblyInfoInputs.cache
+C:\Users\Meitsi\source\repos\LueNimi\LueNimi\obj\Debug\net10.0\LueNimi.AssemblyInfo.cs
+C:\Users\Meitsi\source\repos\LueNimi\LueNimi\obj\Debug\net10.0\LueNimi.csproj.CoreCompileInputs.cache
+C:\Users\Meitsi\source\repos\LueNimi\LueNimi\obj\Debug\net10.0\LueNimi.dll
+C:\Users\Meitsi\source\repos\LueNimi\LueNimi\obj\Debug\net10.0\refint\LueNimi.dll
+C:\Users\Meitsi\source\repos\LueNimi\LueNimi\obj\Debug\net10.0\LueNimi.pdb
+C:\Users\Meitsi\source\repos\LueNimi\LueNimi\obj\Debug\net10.0\LueNimi.genruntimeconfig.cache
+C:\Users\Meitsi\source\repos\LueNimi\LueNimi\obj\Debug\net10.0\ref\LueNimi.dll

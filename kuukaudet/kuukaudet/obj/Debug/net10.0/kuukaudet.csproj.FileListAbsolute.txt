@@ -1,0 +1,14 @@
+C:\Users\Meitsi\source\repos\kuukaudet\kuukaudet\bin\Debug\net10.0\kuukaudet.exe
+C:\Users\Meitsi\source\repos\kuukaudet\kuukaudet\bin\Debug\net10.0\kuukaudet.deps.json
+C:\Users\Meitsi\source\repos\kuukaudet\kuukaudet\bin\Debug\net10.0\kuukaudet.runtimeconfig.json
+C:\Users\Meitsi\source\repos\kuukaudet\kuukaudet\bin\Debug\net10.0\kuukaudet.dll
+C:\Users\Meitsi\source\repos\kuukaudet\kuukaudet\bin\Debug\net10.0\kuukaudet.pdb
+C:\Users\Meitsi\source\repos\kuukaudet\kuukaudet\obj\Debug\net10.0\kuukaudet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meitsi\source\repos\kuukaudet\kuukaudet\obj\Debug\net10.0\kuukaudet.AssemblyInfoInputs.cache
+C:\Users\Meitsi\source\repos\kuukaudet\kuukaudet\obj\Debug\net10.0\kuukaudet.AssemblyInfo.cs
+C:\Users\Meitsi\source\repos\kuukaudet\kuukaudet\obj\Debug\net10.0\kuukaudet.csproj.CoreCompileInputs.cache
+C:\Users\Meitsi\source\repos\kuukaudet\kuukaudet\obj\Debug\net10.0\kuukaudet.dll
+C:\Users\Meitsi\source\repos\kuukaudet\kuukaudet\obj\Debug\net10.0\refint\kuukaudet.dll
+C:\Users\Meitsi\source\repos\kuukaudet\kuukaudet\obj\Debug\net10.0\kuukaudet.pdb
+C:\Users\Meitsi\source\repos\kuukaudet\kuukaudet\obj\Debug\net10.0\kuukaudet.genruntimeconfig.cache
+C:\Users\Meitsi\source\repos\kuukaudet\kuukaudet\obj\Debug\net10.0\ref\kuukaudet.dll

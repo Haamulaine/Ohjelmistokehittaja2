@@ -1,0 +1,14 @@
+C:\Users\Meitsi\source\repos\YksiNumerot\YksiNumerot\bin\Debug\net10.0\YksiNumerot.exe
+C:\Users\Meitsi\source\repos\YksiNumerot\YksiNumerot\bin\Debug\net10.0\YksiNumerot.deps.json
+C:\Users\Meitsi\source\repos\YksiNumerot\YksiNumerot\bin\Debug\net10.0\YksiNumerot.runtimeconfig.json
+C:\Users\Meitsi\source\repos\YksiNumerot\YksiNumerot\bin\Debug\net10.0\YksiNumerot.dll
+C:\Users\Meitsi\source\repos\YksiNumerot\YksiNumerot\bin\Debug\net10.0\YksiNumerot.pdb
+C:\Users\Meitsi\source\repos\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meitsi\source\repos\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.AssemblyInfoInputs.cache
+C:\Users\Meitsi\source\repos\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.AssemblyInfo.cs
+C:\Users\Meitsi\source\repos\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.csproj.CoreCompileInputs.cache
+C:\Users\Meitsi\source\repos\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.dll
+C:\Users\Meitsi\source\repos\YksiNumerot\YksiNumerot\obj\Debug\net10.0\refint\YksiNumerot.dll
+C:\Users\Meitsi\source\repos\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.pdb
+C:\Users\Meitsi\source\repos\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.genruntimeconfig.cache
+C:\Users\Meitsi\source\repos\YksiNumerot\YksiNumerot\obj\Debug\net10.0\ref\YksiNumerot.dll

@@ -1,0 +1,10 @@
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\Harjoitus 2\Harjoitus 2\bin\Debug\Harjoitus 2.exe.config
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\Harjoitus 2\Harjoitus 2\bin\Debug\Harjoitus 2.exe
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\Harjoitus 2\Harjoitus 2\bin\Debug\Harjoitus 2.pdb
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\Harjoitus 2\Harjoitus 2\obj\Debug\Harjoitus 2.csproj.AssemblyReference.cache
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\Harjoitus 2\Harjoitus 2\obj\Debug\Harjoitus_2.Harjoitus2.resources
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\Harjoitus 2\Harjoitus 2\obj\Debug\Harjoitus_2.Properties.Resources.resources
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\Harjoitus 2\Harjoitus 2\obj\Debug\Harjoitus 2.csproj.GenerateResource.cache
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\Harjoitus 2\Harjoitus 2\obj\Debug\Harjoitus 2.csproj.CoreCompileInputs.cache
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\Harjoitus 2\Harjoitus 2\obj\Debug\Harjoitus 2.exe
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\Harjoitus 2\Harjoitus 2\obj\Debug\Harjoitus 2.pdb

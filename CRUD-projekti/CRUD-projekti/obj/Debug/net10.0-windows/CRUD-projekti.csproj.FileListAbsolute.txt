@@ -1,0 +1,17 @@
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\bin\Debug\net10.0-windows\CRUD-projekti.exe
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\bin\Debug\net10.0-windows\CRUD-projekti.deps.json
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\bin\Debug\net10.0-windows\CRUD-projekti.runtimeconfig.json
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\bin\Debug\net10.0-windows\CRUD-projekti.dll
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\bin\Debug\net10.0-windows\CRUD-projekti.pdb
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\obj\Debug\net10.0-windows\CRUD_projekti.Form1.resources
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\obj\Debug\net10.0-windows\CRUD-projekti.csproj.GenerateResource.cache
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\obj\Debug\net10.0-windows\CRUD-projekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\obj\Debug\net10.0-windows\CRUD-projekti.AssemblyInfoInputs.cache
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\obj\Debug\net10.0-windows\CRUD-projekti.AssemblyInfo.cs
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\obj\Debug\net10.0-windows\CRUD-projekti.csproj.CoreCompileInputs.cache
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\obj\Debug\net10.0-windows\CRUD-projekti.sourcelink.json
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\obj\Debug\net10.0-windows\CRUD-projekti.dll
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\obj\Debug\net10.0-windows\refint\CRUD-projekti.dll
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\obj\Debug\net10.0-windows\CRUD-projekti.pdb
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\obj\Debug\net10.0-windows\CRUD-projekti.genruntimeconfig.cache
+C:\Users\Meitsi\source\Ohjelmistokehittaja2\CRUD-projekti\CRUD-projekti\obj\Debug\net10.0-windows\ref\CRUD-projekti.dll

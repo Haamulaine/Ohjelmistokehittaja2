@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Meitsi\\source\\Ohjelmistokehittaja2\\Harjoitus 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BE27A-EB9C-4DEF-B24D-49705C5AF2CE}|Harjoitus 2\\Harjoitus 2.csproj|c:\\users\\meitsi\\source\\ohjelmistokehittaja2\\harjoitus 2\\harjoitus 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2BE27A-EB9C-4DEF-B24D-49705C5AF2CE}|Harjoitus 2\\Harjoitus 2.csproj|solutionrelative:harjoitus 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BE27A-EB9C-4DEF-B24D-49705C5AF2CE}|Harjoitus 2\\Harjoitus 2.csproj|c:\\users\\meitsi\\source\\ohjelmistokehittaja2\\harjoitus 2\\harjoitus 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2BE27A-EB9C-4DEF-B24D-49705C5AF2CE}|Harjoitus 2\\Harjoitus 2.csproj|solutionrelative:harjoitus 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Meitsi\\source\\Ohjelmistokehittaja2\\Harjoitus 2\\Harjoitus 2\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus 2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Meitsi\\source\\Ohjelmistokehittaja2\\Harjoitus 2\\Harjoitus 2\\Form1.cs*",
+              "RelativeToolTip": "Harjoitus 2\\Form1.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:18:24.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Meitsi\\source\\Ohjelmistokehittaja2\\Harjoitus 2\\Harjoitus 2\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus 2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Meitsi\\source\\Ohjelmistokehittaja2\\Harjoitus 2\\Harjoitus 2\\Form1.cs [Design]*",
+              "RelativeToolTip": "Harjoitus 2\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:08:23.453Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
